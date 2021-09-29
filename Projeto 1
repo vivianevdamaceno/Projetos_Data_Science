@@ -1,0 +1,7 @@
+git init
+mkdir folder
+cd folder
+New-Item file.txt
+Notepad .\file.txt
+git add *
+git commit -m "New file"
