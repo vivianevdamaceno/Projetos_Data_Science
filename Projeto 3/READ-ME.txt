@@ -1,0 +1,9 @@
+Este é um projeto de análise que visa apenas praticar meus conhecimentos e capacidade analítica.
+
+Os dados foram reduzidos para facilitar a visualização dos dados das marcas que possuem mais votos.
+
+Não possuo Power Bi service então o Relatório está salvo em formato de Arquivo para o Power Bi Desktop.
+
+Caso não possua Power Bi Desktop tem uma imagem do Dashboard final.
+
+Você vai encontrar a descrição das variáveis no jupyter notebook.
